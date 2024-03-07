@@ -1,6 +1,6 @@
 {
   "name": "tea-comunity-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,10 @@
     "url": "https://github.com/DevJP777/tea-comunity-id/issues"
   },
   "homepage": "https://github.com/DevJP777/tea-comunity-id#readme",
-  "source": "https://github.com/DevJP777/tea-comunity-id.git"
+  "source": "https://github.com/DevJP777/tea-comunity-id.git",
+  "dependencies": {
+    "alchemy-sdk": "^3.1.2",
+    "ethers": "^6.11.1",
+    "tea-chalange": "^1.1.1"
+  }
 }
